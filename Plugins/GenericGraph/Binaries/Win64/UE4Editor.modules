@@ -1,0 +1,8 @@
+{
+	"BuildId": "10570792",
+	"Modules": 
+	{
+		"GenericGraphEditor": "UE4Editor-GenericGraphEditor.dll",
+		"GenericGraphRuntime": "UE4Editor-GenericGraphRuntime.dll"
+	}
+}

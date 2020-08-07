@@ -1,0 +1,126 @@
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Development\GenericGraphEditor\Definitions.GenericGraphEditor.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/AssetTypeActions_GenericGraph.cpp
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\AssetTypeActions_GenericGraph.h
+F:\UE_4.24\Engine\Source\Developer\AssetTools\Public\AssetTypeActions_Base.h
+f:\ue_4.24\engine\source\developer\assettools\public\IAssetTools.h
+f:\ue_4.24\engine\source\developer\assettools\public\AssetTypeCategories.h
+f:\ue_4.24\engine\source\developer\assettools\public\IAssetTypeActions.h
+F:\UE_4.24\Engine\Source\Developer/Merge/Public/Merge.h
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+f:\ue_4.24\engine\source\developer\assettools\public\AssetToolsModule.h
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorManager.h
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Toolkits/SimpleAssetEditor.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\GenericGraphEditorPCH.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphRuntime\Public\GenericGraph.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgraphruntime\public\GenericGraphNode.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphRuntime\GenericGraphNode.generated.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgraphruntime\public\GenericGraphEdge.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphRuntime\GenericGraphEdge.generated.h
+F:\UE_4.24\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphRuntime\GenericGraph.generated.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Public\IGenericGraphEditor.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\GenericGraphAssetEditor/AssetEditor_GenericGraph.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\Settings_GenericGraphEditor.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\Settings_GenericGraphEditor.generated.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/AutoLayout/AutoLayoutStrategy.cpp
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Private\AutoLayout/AutoLayoutStrategy.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Private\GenericGraphAssetEditor/EdGraph_GenericGraph.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\EdGraph_GenericGraph.generated.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Private\GenericGraphAssetEditor/EdNode_GenericGraphNode.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\EdNode_GenericGraphNode.generated.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Private\GenericGraphAssetEditor/EdNode_GenericGraphEdge.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\EdNode_GenericGraphEdge.generated.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\AutoLayoutStrategy.generated.h
+F:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+F:\UE_4.24\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+f:\ue_4.24\engine\source\runtime\engine\classes\kismet\KismetMathLibrary.inl
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Private\GenericGraphAssetEditor/SEdNode_GenericGraphNode.h
+F:\UE_4.24\Engine\Source\Editor\GraphEditor\Public\SGraphNode.h
+f:\ue_4.24\engine\source\editor\grapheditor\public\SNodePanel.h
+f:\ue_4.24\engine\source\editor\grapheditor\public\MarqueeOperation.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/AutoLayout/ForceDirectedLayoutStrategy.cpp
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Private\AutoLayout/ForceDirectedLayoutStrategy.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\ForceDirectedLayoutStrategy.generated.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/AutoLayout/TreeLayoutStrategy.cpp
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Source\GenericGraphEditor\Private\AutoLayout/TreeLayoutStrategy.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\TreeLayoutStrategy.generated.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/AssetEditor_GenericGraph.cpp
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\AssetEditorToolbar_GenericGraph.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\AssetGraphSchema_GenericGraph.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\AssetGraphSchema_GenericGraph.generated.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\EditorCommands_GenericGraph.h
+F:\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\HAL/PlatformApplicationMisc.h
+F:\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
+F:\UE_4.24\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
+F:\UE_4.24\Engine\Source\Runtime\Slate\Public\Framework/Commands/GenericCommands.h
+F:\UE_4.24\Engine\Source\Editor\GraphEditor\Public\GraphEditorActions.h
+F:\UE_4.24\Engine\Source\Editor/UnrealEd/Public/Kismet2/BlueprintEditorUtils.h
+F:\UE_4.24\Engine\Source\Editor/ClassViewer/Public/ClassViewerModule.h
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Kismet2/KismetEditorUtilities.h
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Public\EdGraphUtilities.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/AssetEditorToolbar_GenericGraph.cpp
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\GenericGraphEditorStyle.h
+F:\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
+F:\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+F:\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+F:\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+F:\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/AssetGraphSchema_GenericGraph.cpp
+F:\UE_4.24\Engine\Source\Developer\ToolMenus\Public\ToolMenus.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\IToolMenusModule.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenu.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenuOwner.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuOwner.generated.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenuDelegates.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenuContext.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuContext.generated.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenuMisc.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuMisc.generated.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuDelegates.generated.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenuSection.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenuEntry.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntry.generated.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuSection.generated.h
+F:\UE_4.24\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/ToolMenuBase.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ToolMenuBase.generated.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenu.generated.h
+f:\ue_4.24\engine\source\developer\toolmenus\public\ToolMenuEntryScript.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntryScript.generated.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenus.generated.h
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\ConnectionDrawingPolicy_GenericGraph.h
+F:\UE_4.24\Engine\Source\Editor\GraphEditor\Public\ConnectionDrawingPolicy.h
+f:\ue_4.24\engine\source\editor\grapheditor\public\SGraphPin.h
+f:\ue_4.24\engine\source\editor\grapheditor\public\GraphSplineOverlapResult.h
+f:\ue_4.24\engine\source\editor\grapheditor\public\GraphEditorSettings.h
+F:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor\GraphEditorSettings.generated.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/ConnectionDrawingPolicy_GenericGraph.cpp
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/EdGraph_GenericGraph.cpp
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/EditorCommands_GenericGraph.cpp
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/EdNode_GenericGraphEdge.cpp
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/EdNode_GenericGraphNode.cpp
+F:\UE_4.24\Engine\Source\Editor\UnrealEd\Public\Kismet2/Kismet2NameValidators.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/GenericGraphEditorStyle.cpp
+F:\UE_4.24\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/SEdNode_GenericGraphEdge.cpp
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\SEdNode_GenericGraphEdge.h
+F:\UE_4.24\Engine\Source\Editor\GraphEditor\Public\SGraphPanel.h
+F:\UE_4.24\Engine\Source\Runtime\Engine\Public\GraphEditAction.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/SEdNode_GenericGraphNode.cpp
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\genericgraphasseteditor\Colors_GenericGraph.h
+F:\UE_4.24\Engine\Source\Editor\KismetWidgets\Public\SLevelOfDetailBranchNode.h
+F:\UE_4.24\Engine\Source\Runtime\Slate\Public\Widgets/Text/SInlineEditableTextBlock.h
+F:\UE_4.24\Engine\Source\Editor\GraphEditor\Public\SCommentBubble.h
+F:\UE_4.24\Engine\Source\Runtime\Slate\Public\SlateOptMacros.h
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphAssetEditor/Settings_GenericGraphEditor.cpp
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphEditor.cpp
+F:/UE_Proj/24/DialogueSystem - Copy/Plugins/GenericGraph/Source/GenericGraphEditor/Private/GenericGraphFactory.cpp
+f:\ue_proj\24\dialoguesystem - copy\plugins\genericgraph\source\genericgrapheditor\private\GenericGraphFactory.h
+F:\UE_Proj\24\DialogueSystem - Copy\Plugins\GenericGraph\Intermediate\Build\Win64\UE4Editor\Inc\GenericGraphEditor\GenericGraphFactory.generated.h

@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GenericGraphRuntime.cpp.obj": [
+			"GenericGraph.cpp.obj",
+			"GenericGraphEdge.cpp.obj",
+			"GenericGraphNode.cpp.obj",
+			"GenericGraphRuntime.cpp.obj"
+		],
+		"Module.GenericGraphRuntime.gen.cpp.obj": [
+			"GenericGraph.gen.cpp.obj",
+			"GenericGraphEdge.gen.cpp.obj",
+			"GenericGraphNode.gen.cpp.obj",
+			"GenericGraphRuntime.init.gen.cpp.obj"
+		]
+	}
+}

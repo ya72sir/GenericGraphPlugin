@@ -1,0 +1,37 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GenericGraphEditor.cpp.obj": [
+			"AssetTypeActions_GenericGraph.cpp.obj",
+			"AutoLayoutStrategy.cpp.obj",
+			"ForceDirectedLayoutStrategy.cpp.obj",
+			"TreeLayoutStrategy.cpp.obj",
+			"AssetEditor_GenericGraph.cpp.obj",
+			"AssetEditorToolbar_GenericGraph.cpp.obj",
+			"AssetGraphSchema_GenericGraph.cpp.obj",
+			"ConnectionDrawingPolicy_GenericGraph.cpp.obj",
+			"EdGraph_GenericGraph.cpp.obj",
+			"EditorCommands_GenericGraph.cpp.obj",
+			"EdNode_GenericGraphEdge.cpp.obj",
+			"EdNode_GenericGraphNode.cpp.obj",
+			"GenericGraphEditorStyle.cpp.obj",
+			"SEdNode_GenericGraphEdge.cpp.obj",
+			"SEdNode_GenericGraphNode.cpp.obj",
+			"Settings_GenericGraphEditor.cpp.obj",
+			"GenericGraphEditor.cpp.obj",
+			"GenericGraphFactory.cpp.obj"
+		],
+		"Module.GenericGraphEditor.gen.cpp.obj": [
+			"AssetGraphSchema_GenericGraph.gen.cpp.obj",
+			"AutoLayoutStrategy.gen.cpp.obj",
+			"EdGraph_GenericGraph.gen.cpp.obj",
+			"EdNode_GenericGraphEdge.gen.cpp.obj",
+			"EdNode_GenericGraphNode.gen.cpp.obj",
+			"ForceDirectedLayoutStrategy.gen.cpp.obj",
+			"GenericGraphEditor.init.gen.cpp.obj",
+			"GenericGraphFactory.gen.cpp.obj",
+			"Settings_GenericGraphEditor.gen.cpp.obj",
+			"TreeLayoutStrategy.gen.cpp.obj"
+		]
+	}
+}
